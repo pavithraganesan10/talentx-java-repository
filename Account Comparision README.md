@@ -1,7 +1,5 @@
 # talentx-java-repository
 
-Account Comparison - Hackerrank Solution
-
 class Account implements OnlineAccount, Comparable<Account> {
 
 int noOfRegularMovies, noOfExclusiveMovies;
